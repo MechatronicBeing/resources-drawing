@@ -1,5 +1,5 @@
 # Drawing resources 
-Free "public-domain"-like licensed resources for drawing.
+Free "public-domain"-like licensed resources for DRAWING.
 
 ## [Applications](applications/)
 ### [Web](applications/web/)
