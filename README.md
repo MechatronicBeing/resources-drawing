@@ -1,9 +1,9 @@
 # Drawing resources 
 Free "public domain"-like licensed resources for DRAWING.
 
-## [Programs](programs/)
-### [Web](programs/web/)
-- [svg-whiteboard](programs/web/svg-whiteboard/whiteboard.html)
+## [Applications](applications/)
+### [Web](applications/web/)
+- [svg-whiteboard](applications/web/svg-whiteboard/whiteboard.html)
 
 ## Licenses
 - **Main content** : [Creative Commons CC0 Public Domain Dedication](LICENSE) *(unless otherwise stated)*
